@@ -1,16 +1,30 @@
-## Hi there 👋
+# Vishal Santhosh
 
-<!--
-**thatiswat/thatiswat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer | Founder @ Nativee | ETE Undergraduate @ BMSCE**
 
-Here are some ideas to get you started:
+I build software across backend platforms, AI applications, systems programming, and embedded systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building **Nativee**, a multilingual AI communication platform for speech, translation, and real-time communication.
+
+## Focus
+
+- Software Engineering
+- Backend & Platform Development
+- C++ & Systems Programming
+- AI Applications
+- Embedded Systems
+
+## Selected Projects
+
+- **Nativee** — Multilingual AI communication platform
+- **IndicCrypt** — C++23 cryptographic library for Indic text
+- **iSpeak** — Offline multilingual speech translator for edge devices
+- **ATAG** — ESP32-based wearable presence verification system
+
+## Technologies
+
+**Python · C++ · TypeScript · SQL**
+
+**FastAPI · PostgreSQL · React · Next.js · React Native**
+
+**Linux · Docker · CMake · Git**
