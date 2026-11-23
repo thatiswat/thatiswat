@@ -1,30 +1,49 @@
 # Vishal Santhosh
 
-**Software Engineer | Founder @ Nativee | ETE Undergraduate @ BMSCE**
+**Aspiring Software Development Engineer (SDE) Intern | ETE Undergraduate @ BMSCE**
 
-I build software across backend platforms, AI applications, systems programming, and embedded systems.
+I am an undergraduate focused on software engineering, backend development, and problem-solving. I enjoy building applications, developing backend systems, and exploring software technologies through hands-on projects.
 
-Currently building **Nativee**, a multilingual AI communication platform for speech, translation, and real-time communication.
+Currently developing **[Nativee](https://nativee.in)** — a multilingual AI communication platform focused on speech recognition, translation, and real-time communication.
 
 ## Focus
 
-- Software Engineering
-- Backend & Platform Development
+- Software Development & Problem Solving
+- Data Structures & Algorithms
+- Backend & API Development
 - C++ & Systems Programming
-- AI Applications
-- Embedded Systems
+- Database Design & Management
+- Software Architecture
 
 ## Selected Projects
 
-- **Nativee** — Multilingual AI communication platform
-- **IndicCrypt** — C++23 cryptographic library for Indic text
-- **iSpeak** — Offline multilingual speech translator for edge devices
-- **ATAG** — ESP32-based wearable presence verification system
+- **Nativee** — Multilingual AI communication platform for speech, translation, and real-time communication.
+- **IndicCrypt** — C++23 cryptographic library for Unicode-aware, format-preserving encryption of Indic text.
+- **QStack** — Examination platform for automated question-paper generation, retrieval, and validation.
+- **iSpeak** — Offline multilingual speech translation system designed for edge devices.
+- **ROAD** — AI-enabled robotics application integrating computer vision and software-hardware control.
+- **ATAG** — ESP32-based wearable presence verification system.
 
 ## Technologies
 
-**Python · C++ · TypeScript · SQL**
+**Languages**
 
-**FastAPI · PostgreSQL · React · Next.js · React Native**
+Python · C++ · TypeScript · JavaScript · SQL
 
-**Linux · Docker · CMake · Git**
+**Frameworks & Backend**
+
+FastAPI · React · Next.js · React Native · SQLAlchemy
+
+**Databases & Developer Tools**
+
+PostgreSQL · Supabase · Docker · Linux · Git · GitHub · CMake · Postman
+
+## Connect
+
+- **LinkedIn:** https://linkedin.com/in/vishal-thatiswat
+- **GitHub:** https://github.com/thatiswat
+- **Email:** vishalsrao2004@gmail.com
+
+---
+
+*Learning. Building. Engineering software.*
